@@ -1,4 +1,8 @@
-## Hi there 👋
+https://badge.mediaplus.ma/binary/onajem
+
+[![onajem's 42 stats](https://badge.mediaplus.ma/binary/onajem)](https://github.com/oakoudad/badge42)
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/onajem" alt="onajem's 42 stats" /></a>
 
 <!--
 **HEIZENNBERG/HEIZENNBERG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
